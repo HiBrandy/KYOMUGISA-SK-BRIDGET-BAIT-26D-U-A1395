@@ -1,4 +1,7 @@
-/* QLT Technologies - stylesheet. Colours: navy, teal, white, greys */
+/* QLT Technologies - stylesheet. Colours: navy, teal, white, greys
+  <div class="copy">&copy; 2026 QLT Technologies Ltd. All rights reserved. &nbsp;|&nbsp; Plot 12, Kampala, Uganda</div>
+</div>
+*/
 :root{--navy:#0f1b33;--navy2:#16294d;--teal:#14b8a6;--teal-d:#0e8f81;--bg:#f5f7fa;--line:#dde3ec;--text:#27324a;--muted:#6b778c}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
